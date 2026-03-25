@@ -1,6 +1,7 @@
 # Introduction to Cyber Security
-This is the first section of THM which includes the fundamentals of understanding what defensive and offensive security is; allowing me to explore both worlds and maybe even decide which path I might want to take.
 
-To begin with, we learn basic offensive security concepts when hacking a EXTREMELY vulnerable online-banking system. On the other hand, we get exposed to defensive secuity by blocking an on-going cyber attack.
+This is the first TryHackMe section and focuses on the fundamentals of offensive and defensive security. It gave me an introduction to both sides of cybersecurity and helped me better understand the different paths within the field.
 
-More information about the rooms in this section will be avalible in the coresponding folder.
+In this section, I explored basic offensive security concepts through a vulnerable online banking system and basic defensive concepts through identifying and stopping a cyber attack.
+
+More detailed notes for each room are included in the corresponding folder.
