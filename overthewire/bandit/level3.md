@@ -4,7 +4,7 @@ The goal is to find the password in the file `--spaces in this filename--`.
 
 Since the file name starts with a `-` and has spaces we use the command(s):
 
-`cat ./--spaces\ in\ this\ filename-- 
+`cat ./--spaces\ in\ this\ filename--`
 
 or
 
