@@ -5,7 +5,7 @@ I log in to bandit1 using the command:
 
 `ssh -p 2220 bandit1@bandit.labs.overthewire.org`
 
-Then to see the files in the directory I am in I type:
+Then to see the files in the directory I am in, I type:
 
 `ls`
 
